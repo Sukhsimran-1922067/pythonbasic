@@ -1,0 +1,2 @@
+# pythonbasic
+learning python
